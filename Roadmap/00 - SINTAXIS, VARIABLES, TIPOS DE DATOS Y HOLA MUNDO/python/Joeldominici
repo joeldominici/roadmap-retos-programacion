@@ -1,0 +1,18 @@
+#https://www.python.org/
+"""
+este es un comentario largo que puede tener varias lineas
+por esto escribo dentro de estos tres parentesis para poder 
+dejar mi comentario dentro de mi codigo sin que se ejecute
+"""
+My_Variable1 = "Hola Mundo"
+My_constante = "Hola mundo de nuevo"
+
+#crea Variables representando los diferentes tipos de datos primitivos del lenguaje
+
+Int1 = 10
+Float1 = 3.2
+Boolean1 = True
+String1 = "Hola Python"
+
+Printf(String1)
+
